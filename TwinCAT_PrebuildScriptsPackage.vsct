@@ -63,14 +63,14 @@
         <Parent guid="guidTwinCAT_PrebuildScriptsPackageCmdSet" id="MyMenuGroup" />
         <Icon guid="guidImages" id="bmpPic1" />
         <Strings>
-          <ButtonText>Run Pre Scritps</ButtonText>
+          <ButtonText>Run Pre Scripts</ButtonText>
         </Strings>
       </Button>
       <Button guid="guidTwinCAT_PrebuildScriptsPackageCmdSet" id="cmdidRunPostScritps" priority="0x0100" type="Button">
         <Parent guid="guidTwinCAT_PrebuildScriptsPackageCmdSet" id="MyMenuGroup" />
         <Icon guid="guidImages" id="bmpPic1" />
         <Strings>
-          <ButtonText>Run Post Scritps</ButtonText>
+          <ButtonText>Run Post Scripts</ButtonText>
         </Strings>
       </Button>
     </Buttons>

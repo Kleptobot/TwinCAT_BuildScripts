@@ -6,7 +6,7 @@ place two plain text files in the same directory as the TwinCAT solution:
  - post_build_scripts.txt
 
 The plugin reads the files and executes each line as a powershell argument.
-Scritps are executed sequentially from top to bottom.
+Scripts are executed sequentially from top to bottom.
 The execution context of the scripts is the solution directory.
 
 below is an example of what a script file might contain:
